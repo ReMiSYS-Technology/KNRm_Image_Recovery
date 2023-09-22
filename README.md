@@ -1,5 +1,7 @@
 # KNRm_Image_Recovery
 
+Google Doc 好讀版 https://docs.google.com/document/d/1NXD5mdD-Mpjh1S2giAEFhX76eqKabNhdaeGjBfUA8Wc/edit?usp=sharing
+
 KNRm OS6 Image Recovery
 	 for LabVIEW 2019, KNRm OS3, OS4, and OS6 compatible
 
